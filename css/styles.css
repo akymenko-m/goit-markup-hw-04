@@ -324,6 +324,7 @@ img {
     color: #AFB1B8;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .regular-customers-icon {
